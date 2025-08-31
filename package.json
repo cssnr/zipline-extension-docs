@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview .",
+    "prettier": "npx prettier --check ."
+  },
+  "dependencies": {
+    "@cssnr/vitepress-swiper": "^0.0.7",
+    "animate.css": "^4.1.1",
+    "vitepress": "^1.6.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}

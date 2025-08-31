@@ -1,0 +1,27 @@
+{
+  "props": {
+    "data": "https://addons.mozilla.org/addon/zipline-extension",
+    "image": "",
+    "width": 200,
+    "height": 200,
+    "margin": 0,
+    "dotsOptions": { "color": "#dfdfd6", "type": "square" },
+    "cornersSquareOptions": { "color": "#dfdfd6", "type": "dot" },
+    "cornersDotOptions": { "color": "#dfdfd6", "type": "dot" },
+    "imageOptions": { "margin": 2 },
+    "qrOptions": { "errorCorrectionLevel": "H" }
+  },
+  "style": { "borderRadius": "0px", "background": "transparent" },
+  "frame": {
+    "text": "Firefox Android",
+    "position": "top",
+    "style": {
+      "textColor": "#dfdfd6",
+      "backgroundColor": "#161618",
+      "borderColor": "#dfdfd6",
+      "borderWidth": "1px",
+      "borderRadius": "8px",
+      "padding": "4px"
+    }
+  }
+}

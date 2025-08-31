@@ -1,0 +1,27 @@
+{
+  "props": {
+    "data": "https://chromewebstore.google.com/detail/zipline-extension/gkkloiijbkgkbmgckfefigkjckhdikkd",
+    "image": "",
+    "width": 200,
+    "height": 200,
+    "margin": 0,
+    "dotsOptions": { "color": "#dfdfd6", "type": "square" },
+    "cornersSquareOptions": { "color": "#dfdfd6", "type": "square" },
+    "cornersDotOptions": { "color": "#dfdfd6", "type": "square" },
+    "imageOptions": { "margin": 4 },
+    "qrOptions": { "errorCorrectionLevel": "Q" }
+  },
+  "style": { "borderRadius": "0px", "background": "transparent" },
+  "frame": {
+    "text": "Chrome Web Store",
+    "position": "top",
+    "style": {
+      "textColor": "#dfdfd6",
+      "backgroundColor": "#161618",
+      "borderColor": "#dfdfd6",
+      "borderWidth": "1px",
+      "borderRadius": "8px",
+      "padding": "4px"
+    }
+  }
+}
