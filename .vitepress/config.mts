@@ -76,17 +76,19 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Guides',
+        base: '/guides',
         items: [
-          { text: 'Get Started', link: '/guides/get-started' },
-          { text: 'Features', link: '/guides/features' },
+          { text: 'Get Started', link: '/get-started' },
+          { text: 'Features', link: '/features' },
         ],
       },
       {
         text: 'Documentation',
+        base: '/docs',
         // collapsed: false,
         items: [
-          { text: 'Popup', link: '/docs/popup' },
-          { text: 'Options', link: '/docs/options' },
+          { text: 'Popup', link: '/popup' },
+          { text: 'Options', link: '/options' },
         ],
       },
       {
@@ -124,13 +126,13 @@ export default defineConfig({
     },
 
     search: {
-      provider: 'local',
-      // provider: 'algolia',
-      // options: {
-      //   appId: 'C5CAXNAV8S',
-      //   apiKey: '2485bd6cfe2823fac3a521edb6a3652f',
-      //   indexName: 'zipline-extension-docs',
-      // },
+      // provider: 'local',
+      provider: 'algolia',
+      options: {
+        appId: 'NWVKC37L32',
+        apiKey: 'ead8f5921d4dd8b743d69ee4db57c7a4',
+        indexName: 'zipline-extension-docs',
+      },
     },
 
     // footer: {
