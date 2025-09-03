@@ -67,9 +67,25 @@ export default defineConfig({
           { text: 'Chrome Web Store', link: settings.chrome_url },
           { text: 'Mozilla Addons', link: settings.mozilla_url },
           { text: 'GitHub Source Code', link: settings.source_repo },
+          { text: 'Android Application', link: 'https://github.com/cssnr/zipline-android' },
           { text: 'Developer Site', link: 'https://cssnr.github.io/' },
           { text: 'Contribute', link: 'https://ko-fi.com/cssnr' },
         ],
+      },
+    ],
+
+    socialLinks: [
+      { icon: 'github', link: settings.source_repo },
+      { icon: 'googlechrome', link: settings.chrome_url },
+      { icon: 'mozilla', link: settings.mozilla_url },
+      { icon: 'android', link: 'https://github.com/cssnr/zipline-android' },
+      { icon: 'discord', link: 'https://discord.gg/wXy6m2X8wY' },
+      { icon: 'kofi', link: 'https://ko-fi.com/cssnr' },
+      {
+        icon: {
+          svg: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" style="fill: none;" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>',
+        },
+        link: 'https://cssnr.github.io/',
       },
     ],
 
@@ -93,22 +109,7 @@ export default defineConfig({
       },
       {
         text: 'Support',
-        items: [{ text: 'Support', link: '/support' }],
-      },
-    ],
-
-    socialLinks: [
-      { icon: 'github', link: settings.source_repo },
-      { icon: 'googlechrome', link: settings.chrome_url },
-      { icon: 'mozilla', link: settings.mozilla_url },
-      { icon: 'android', link: 'https://github.com/cssnr/zipline-android' },
-      { icon: 'discord', link: 'https://discord.gg/wXy6m2X8wY' },
-      { icon: 'kofi', link: 'https://ko-fi.com/cssnr' },
-      {
-        icon: {
-          svg: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" style="fill: none;" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>',
-        },
-        link: 'https://cssnr.github.io/',
+        items: [{ text: 'Get Help', link: '/support' }],
       },
     ],
 
