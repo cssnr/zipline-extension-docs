@@ -132,7 +132,7 @@ export default defineConfig({
       options: {
         appId: 'NWVKC37L32',
         apiKey: 'ead8f5921d4dd8b743d69ee4db57c7a4',
-        indexName: 'zipline-extension-docs',
+        indexName: 'zipline_extension_docs_pages',
       },
     },
 
