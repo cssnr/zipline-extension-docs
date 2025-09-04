@@ -8,9 +8,11 @@ prev:
 
 Get started by [installing](#install) the extension and [connecting](#setup) to your [server](#server).
 
-You can also view the [features](features.md) and 📸 [screenshots](features.md#screenshots).
+You can also view the [features](features.md) and [screenshots](features.md#screenshots) 📸.
 
 ## Install
+
+<span style="display:none;/*Search Keywords*/">Microsoft Edge, Opera, Brave, Chromium, Vivaldi, Waterfox, and More.</span>
 
 Available for all major browsers including [Firefox Android](https://addons.mozilla.org/addon/zipline-extension).
 
