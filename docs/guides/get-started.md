@@ -12,7 +12,7 @@ You can also view the [features](features.md) and [screenshots](features.md#scre
 
 ## Install
 
-<span style="display:none;/*Search Keywords*/">Microsoft Edge, Opera, Brave, Chromium, Vivaldi, Waterfox, and More.</span>
+<span class="search-keywords">Microsoft Edge, Opera, Brave, Chromium, Vivaldi, Waterfox, and More.</span>
 
 Available for all major browsers including [Firefox Android](https://addons.mozilla.org/addon/zipline-extension).
 
