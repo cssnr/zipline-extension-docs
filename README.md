@@ -1,6 +1,7 @@
 [![Pages](https://img.shields.io/github/actions/workflow/status/cssnr/zipline-extension-docs/pages.yaml?logo=github&label=pages)](https://github.com/cssnr/zipline-extension-docs/actions/workflows/pages.yaml)
 [![Lint](https://img.shields.io/github/actions/workflow/status/cssnr/zipline-extension-docs/lint.yaml?logo=github&label=lint)](https://github.com/cssnr/zipline-extension-docs/actions/workflows/lint.yaml)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/cssnr/zipline-extension-docs?logo=vitepress&logoColor=white&label=updated)](https://github.com/cssnr/zipline-extension-docs/pulse)
+[![GitHub Contributors](https://img.shields.io/github/contributors/cssnr/zipline-extension-docs?logo=github)](https://github.com/cssnr/zipline-extension-docs/graphs/contributors)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/cssnr/zipline-extension-docs?logo=bookstack&logoColor=white&label=repo%20size)](https://github.com/cssnr/zipline-extension-docs)
 [![GitHub Discussions](https://img.shields.io/github/discussions/cssnr/zipline-extension?logo=github)](https://github.com/cssnr/zipline-extension/discussions)
 [![GitHub Repo Stars](https://img.shields.io/github/stars/cssnr/zipline-extension?style=flat&logo=github)](https://github.com/cssnr/zipline-extension/stargazers)
